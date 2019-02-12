@@ -1,0 +1,7 @@
+{
+  "name": "ionicNativeFlashlight",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
